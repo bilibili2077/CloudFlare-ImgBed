@@ -1,4 +1,3 @@
 name = "cloudflare-imgbed"
-type = "javascript"
-main = "index.js"
+main = "src/index.js"
 compatibility_date = "2025-07-21"
